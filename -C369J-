@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>C369J's Official Website</title>
+	</head>
+	<body>
+		<nav>
+    		<ul>
+        		<li><a href="/">Home</a></li>
+	        	<li><a href="/about">About</a></li>
+    		</ul>
+		</nav>
+		<div class="container">
+    		<div class="blurb">
+        		<h1>Hi there, I'm C369J!</h1>
+				<p>you may know me from Scratch :D</a></p>
+    		</div><!-- /.blurb -->
+		</div><!-- /.container -->
+		<footer>
+    		<ul>
+        		<li><a href="mailto:cole.johnson01@students.rsd.edu">email</a></li>
+        		<li><a href="https://www.scratch.mit.edu</a></li>
+			</ul>
+		</footer>
+	</body>
+</html>
